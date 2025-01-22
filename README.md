@@ -108,12 +108,3 @@ An extension of U-Net, integrating attention mechanisms to focus on relevant reg
 - [Original U-Net Paper](https://arxiv.org/abs/1505.04597)
 - [Attention U-Net Paper](https://arxiv.org/abs/1804.03999)
 
----
-
-## Acknowledgments
-Special thanks to the Kaggle community for providing the dataset and GPU support for training models.
-
----
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
